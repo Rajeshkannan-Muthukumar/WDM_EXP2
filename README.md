@@ -95,7 +95,9 @@ middle, high, B
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 ![Op1](https://github.com/anishmj/WDM_EXP2/blob/main/exp_2_table.png)
+
 ![Op2](https://github.com/anishmj/WDM_EXP2/blob/main/bank_data_table.png)
+
 ![Op3](https://github.com/anishmj/WDM_EXP2/blob/main/exp_2_employee_table.png)
 
 ### Procedure for Association Rules:
